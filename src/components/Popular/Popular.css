@@ -93,7 +93,7 @@
 }
 @media(max-width:400px){
     .popular{
-        height: 90vh;
+        height: 100vh;
     }
     .popular-item{
         gap: 20px;
